@@ -1,0 +1,29 @@
+_repo: VellenauxA-Novel_15956
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Forrest, E. W. (Edmund William)
+    alias: Forrest, Edmund William
+    deathdate: 1880
+    gutenberg_agent_id: '6391'
+    url: http://www.gutenberg.org/2009/agents/6391
+    wikipedia: http://faculty.marianopolis.edu/c.belanger/quebechistory/encyclopedia/EdmundWilliamForrest.htm
+description: ''
+gutenberg_issued: '2005-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'India -- History -- Sepoy Rebellion, 1857-1858 -- Fiction'
+title: 'Vellenaux
+
+  A Novel'
+url: http://www.gutenberg.org/ebooks/15956
